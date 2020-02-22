@@ -1,0 +1,7 @@
+name: skill_web_command_execute_php_filter_complex
+title: 命令注入-综合
+desc: 命令注入同时过滤了前面几个小节的内容,如何打出漂亮的组合拳呢?
+tags:
+  - web
+  - php
+  - rce
