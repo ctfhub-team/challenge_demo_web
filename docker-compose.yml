@@ -4,6 +4,6 @@ services:
     build: .
     image: skill_web_command_execute_php_filter_complex
     ports:
-      - "127.0.0.1:8085:80"
+      - "10080:80"
     environment:
       - FLAG=ctfhub{command_execute_php_filter_complex}
